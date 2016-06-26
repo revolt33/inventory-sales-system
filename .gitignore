@@ -1,0 +1,15 @@
+Project/build/
+Project/dist/
+Project/Errors/
+Project/nbproject/
+Project/AircraftReport.jasper
+Project/build.xml
+Project/manifest.mf
+Server/build/
+Server/Errors/
+Server/nbproject/
+Server/Stock/
+Server/Transactions/
+Server/build.xml
+Server/manifest.mf
+Server/User
